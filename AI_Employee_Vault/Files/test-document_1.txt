@@ -1,0 +1,9 @@
+This is a test file dropped into the Inbox folder.
+It should trigger the File System Watcher to create an action file.
+
+Test content:
+- Item 1
+- Item 2
+- Item 3
+
+Please process this file according to the Company Handbook rules.

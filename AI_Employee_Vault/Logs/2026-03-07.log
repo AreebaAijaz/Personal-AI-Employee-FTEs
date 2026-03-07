@@ -1,0 +1,29 @@
+2026-03-07 12:54:21,042 - FilesystemWatcher - INFO - Drop folder: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 12:54:21,043 - FilesystemWatcher - INFO - Starting FilesystemWatcher with Observer
+2026-03-07 12:54:21,043 - FilesystemWatcher - INFO - Watching: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 12:55:22,232 - FilesystemWatcher - INFO - Drop folder: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 12:55:22,232 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-07 12:55:22,233 - FilesystemWatcher - INFO - Vault path: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-07 12:55:22,234 - FilesystemWatcher - INFO - Check interval: 2s
+2026-03-07 12:55:22,255 - FilesystemWatcher - INFO - Copied file to vault: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Files\test-document.txt
+2026-03-07 12:55:22,255 - FilesystemWatcher - INFO - Created action file: FILE_test-document_2026-03-07.md
+2026-03-07 13:07:03,348 - FilesystemWatcher - INFO - Drop folder: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 13:07:03,348 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-07 13:07:03,348 - FilesystemWatcher - INFO - Vault path: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-07 13:07:03,349 - FilesystemWatcher - INFO - Check interval: 30s
+2026-03-07 13:07:03,353 - FilesystemWatcher - INFO - Copied file to vault: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Files\test-document_1.txt
+2026-03-07 13:07:03,353 - FilesystemWatcher - INFO - Created action file: FILE_test-document_2026-03-07.md
+2026-03-07 13:07:17,567 - FilesystemWatcher - INFO - FilesystemWatcher stopped by user
+2026-03-07 13:07:28,484 - FilesystemWatcher - INFO - Drop folder: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 13:07:28,485 - FilesystemWatcher - INFO - Starting FilesystemWatcher with Observer
+2026-03-07 13:07:28,485 - FilesystemWatcher - INFO - Watching: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 13:07:55,463 - FilesystemWatcher - INFO - Stopping observer...
+2026-03-07 13:07:55,467 - FilesystemWatcher - INFO - FilesystemWatcher stopped
+2026-03-07 13:16:31,641 - FilesystemWatcher - INFO - Drop folder: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 13:16:31,641 - FilesystemWatcher - INFO - Starting FilesystemWatcher with Observer
+2026-03-07 13:16:31,642 - FilesystemWatcher - INFO - Watching: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-03-07 13:16:49,602 - FilesystemWatcher - INFO - File created: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox\test-file
+2026-03-07 13:16:49,603 - FilesystemWatcher - INFO - Processing new file: test-file
+2026-03-07 13:16:49,609 - FilesystemWatcher - INFO - Copied file to vault: C:\Users\san\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Files\test-file
+2026-03-07 13:20:47,090 - FilesystemWatcher - INFO - Stopping observer...
+2026-03-07 13:20:47,094 - FilesystemWatcher - INFO - FilesystemWatcher stopped
